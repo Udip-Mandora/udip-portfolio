@@ -28,7 +28,7 @@ html {
 }
 
 body {
-  background: #0c023e;
+  background: rgb(12, 2, 62);
   color: var(--text-color);
 }
 
@@ -37,8 +37,9 @@ body {
   top: 0;
   left: 0;
   width: 100%;
-  padding: 2rem 9%;
-  background: transparent;
+  padding: 1rem 9%;
+  background: rgb(12, 2, 62, 0.9);
+  border-bottom: #ededed 1px solid;
   display: flex;
   justify-content: space-between;
   align-items: center;
