@@ -553,6 +553,7 @@ span {
   .navbar.active {
     left: 0;
     transition-delay: 0s;
+    display: none;
 
   }
 
