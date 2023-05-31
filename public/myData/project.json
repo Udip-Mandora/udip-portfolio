@@ -2,19 +2,31 @@
     {
         "id": 1,
         "Name": "MARK",
-        "Content": "MARK is my own perosnal voice assistant for windows. MARK is my graduation project which was made with my fellowe peer using python as a main source of language. Out of 20000 projects, it was the only project to have start-up offer.",
+        "Content": "MARK is my own perosnal voice assistant for windows. MARK is my graduation project which was made with my fellowe peer using python as a main source of language. Out of 20000 projects, it was the only project to have start-up offer. Languages: Python",
         "Date": "20/05/2021"
     },
     {
         "id": 2,
         "Name": "Interaction Design",
-        "Content": "It was a group project which was led by me where we redesigned two streams of humbercurrent.ca as a challenge and it was successfully done by my whole team.",
+        "Content": "It was a group project which was led by me where we redesigned two streams of humbercurrent.ca as a challenge and it was successfully done by my whole team. Languages: NodeJs, Laravel",
         "Date": "15/12/2023"
     },
     {
         "id": 3,
         "Name": "Breathing Exercise",
-        "Content": "It is an exercise which helps people to reduce anxiety and depression from their day to day lives. All they have to do is follow the instructions and do the exercise.",
+        "Content": "It is an exercise which helps people to reduce anxiety and depression from their day to day lives. All they have to do is follow the instructions and do the exercise. Language: JavaScript",
+        "Date": "20/05/2021"
+    },
+    {
+        "id": 4,
+        "Name": "Space Exploration",
+        "Content": "Get latest images of MARS from NASA's API & also shows data of Tesla Roadster's information and images using SpaceX API. Language: NodeJS, HTML/CSS ",
+        "Date": "20/05/2021"
+    },
+    {
+        "id": 5,
+        "Name": "Exercises for Mental Health",
+        "Content": "A system which suggest exercises of Yoga according to the issues a person have. User's can also perform CRUD operations in thier account. Languages: ASP.NET",
         "Date": "20/05/2021"
     }
 ]
