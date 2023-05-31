@@ -83,7 +83,7 @@ export default function Home() {
             </div>
             <p> I am professional web Developer who can use industry level technology to make websites</p>
             <div class="btn-box">
-              <a href="#" class="btn">Hire Me</a>
+              <a href="#Contact" class="btn">Hire Me</a>
               {/* <a href="#" class="btn">Let's Talk</a> */}
             </div>
           </div>
@@ -216,7 +216,7 @@ export default function Home() {
         {/* <!--contact section desgin--> */}
         <section class="Contact" id="Contact">
           <h2 class="heading">Contact <span>Me!</span></h2>
-          <form action="mailto:udipmandora42@gmail.com" method="post" enctype="text/plain">
+          <form action="mailto:udipmandora42@gmail.com" method="post">
             <div class="input-box">
               <div class="input-field">
                 <input type="text" placeholder="Full Name" required />
