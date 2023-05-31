@@ -15,18 +15,18 @@
         "id": 3,
         "Name": "Breathing Exercise",
         "Content": "It is an exercise which helps people to reduce anxiety and depression from their day to day lives. All they have to do is follow the instructions and do the exercise. Language: JavaScript",
-        "Date": "20/05/2021"
+        "Date": "20/10/2022"
     },
     {
         "id": 4,
         "Name": "Space Exploration",
         "Content": "Get latest images of MARS from NASA's API & also shows data of Tesla Roadster's information and images using SpaceX API. Language: NodeJS, HTML/CSS ",
-        "Date": "20/05/2021"
+        "Date": "20/04/2023"
     },
     {
         "id": 5,
         "Name": "Exercises for Mental Health",
         "Content": "A system which suggest exercises of Yoga according to the issues a person have. User's can also perform CRUD operations in thier account. Languages: ASP.NET",
-        "Date": "20/05/2021"
+        "Date": "15/11/2022"
     }
 ]
