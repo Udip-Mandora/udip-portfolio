@@ -101,18 +101,20 @@ export default function Home() {
         {/* about section design  */}
         <section class="About" id="About">
           <h2 class="heading">About <span>Me</span></h2>
-          <div class="about-img">
-            <img src="images/main .png" alt="" />
-            <span class="circle-spin"></span>
-          </div>
-          <div class="about-content">
-            <h3>Web Developer</h3>
-            <p> I have done my post graduation in Web Development from Humber College. I have been an enthusiast whenever it came to technology
-              and building websites. My goal always has been to work and develop websites and products which can change people's lives with
-              that.</p>
+          <div class="about-portion">
+            <div class="about-img">
+              <img src="images/main .png" alt="" />
+              <span class="circle-spin"></span>
+            </div>
+            <div class="about-content">
+              <h3>Web Developer</h3>
+              <p> I have done my post graduation in Web Development from Humber College. I have been an enthusiast whenever it came to technology
+                and building websites. My goal always has been to work and develop websites and products which can change people's lives with
+                that.</p>
 
-            <div class="btn-box btns">
-              <a href="#" class="btn">Read More</a>
+              <div class="btn-box btns">
+                <a href="#" class="btn">Read More</a>
+              </div>
             </div>
           </div>
         </section>
@@ -213,7 +215,7 @@ export default function Home() {
         {/* <!--contact section desgin--> */}
         <section class="Contact" id="Contact">
           <h2 class="heading">Contact <span>Me!</span></h2>
-          <form action="#">
+          <form action="mailto:udipmandora42@gmail.com" method="post" enctype="text/plain">
             <div class="input-box">
               <div class="input-field">
                 <input type="text" placeholder="Full Name" required />

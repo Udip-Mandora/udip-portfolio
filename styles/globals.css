@@ -146,6 +146,12 @@ section {
   animation-delay: 1s;
 }
 
+.about-portion {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4em;
+}
 
 .home-content p {
   font-size: 1.4rem;
